@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/overview.svg)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=invalidmarkup369&include_all_commits=true&count_private=true&show_icons=true&theme=merko)](https://github.com/invalidmarkup369/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invalidmarkup369&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/languages.svg)
+
