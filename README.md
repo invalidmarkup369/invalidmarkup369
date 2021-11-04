@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **invalidmarkup369/invalidmarkup369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=invalidmarkup369&include_all_commits=true&count_private=true&show_icons=true&theme=merko)](https://github.com/invalidmarkup369/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invalidmarkup369&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
