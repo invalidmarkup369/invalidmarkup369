@@ -1,21 +1,15 @@
 ### Hello there 👋
 
-<!--
-**invalidmarkup369/invalidmarkup369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Future Full Stack developer
+- 💬 Ask me about: anything related to coding
+- 📫 How to reach me: invalidmarkup369@gmail.com & ndumovski14@gmail.com 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i'm always focusing 🎯
 
-### Coding stats 👨‍💻
+## Coding stats 👨‍💻
 
 ![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/overview.svg)
 
