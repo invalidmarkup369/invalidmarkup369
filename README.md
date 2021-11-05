@@ -33,5 +33,5 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"       height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=invalidmarkup369.invalidmarkup369)
+![](https://visitor-badge.laobi.icu/badge?page_id=invalidmarkup369.invalidmarkup369) [![Github](https://img.shields.io/github/followers/invalidmarkup369?label=Follow&style=social)](https://github.com/invalidmarkup369)
 
