@@ -7,6 +7,7 @@
 - 💬 Ask me about: anything related to coding
 - 📫 How to reach me: invalidmarkup369@gmail.com & ndumovski14@gmail.com 
 - 😄 Pronouns: he/him
+- 🔥 Advice: stay hydrated.🙏
 - ⚡ Fun fact: i'm always focusing 🎯
 
 ## Coding stats 💥
