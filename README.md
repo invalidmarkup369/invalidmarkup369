@@ -10,7 +10,7 @@
 - 🔥 Advice: stay hydrated.🙏
 - ⚡ Fun fact: i'm always focusing 🎯
 
-## Coding stats 💥
+## 💥 Coding stats:
 
 
 ![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/overview.svg) ![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/languages.svg)
