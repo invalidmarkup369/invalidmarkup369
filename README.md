@@ -12,8 +12,8 @@
 
 ## Coding stats 💥
 
-![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/overview.svg) | ![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/languages.svg)
 
 
-![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/languages.svg)
+
 
