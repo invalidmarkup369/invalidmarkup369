@@ -17,7 +17,7 @@
 - ⚡ Fun fact: i'm always focusing 🎯
 
 
-## :email: Find me on:
+## :email: Contact :
 
 <p align="center">
 <a href="mailto:ndumovski14@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>   
