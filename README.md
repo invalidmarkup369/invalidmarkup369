@@ -1,14 +1,27 @@
 ### Hello, World! 👨‍💻🌐
 
+
+![](https://visitor-badge.laobi.icu/badge?page_id=invalidmarkup369.invalidmarkup369) [![Github](https://img.shields.io/github/followers/invalidmarkup369?label=Follow&style=social)](https://github.com/invalidmarkup369)
+
+
+## 🎓 I'm an BSc Computer Science and Communications Engineering student at the University of St.Kliment Ohridski - Bitola
+
+
 ## About me
 
 
 - 🚀 Future Full Stack developer
 - 💬 Ask me about anything
-- 📫 How to reach me: invalidmarkup369@gmail.com & ndumovski14@gmail.com 
 - 😄 Pronouns: he/him
 - 🔥 Advice: stay hydrated.🙏
 - ⚡ Fun fact: i'm always focusing 🎯
+
+
+## :email: Find me on:
+
+<p align="center">
+<a href="mailto:ndumovski14@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>   
+</p>
 
 ## 💥 Github stats:
 
@@ -33,5 +46,4 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"       height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=invalidmarkup369.invalidmarkup369) [![Github](https://img.shields.io/github/followers/invalidmarkup369?label=Follow&style=social)](https://github.com/invalidmarkup369)
 
