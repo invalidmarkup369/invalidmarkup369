@@ -12,9 +12,9 @@
 
 ## Coding stats 💥
 
-<p align="center">
+
 ![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/overview.svg) ![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/languages.svg)
-</p>
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
