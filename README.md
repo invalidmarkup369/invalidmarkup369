@@ -30,7 +30,10 @@
 
 <br/>
 
-![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/overview.svg) ![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/languages.svg)
+<div style="text-align: center">  
+  ![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/overview.svg) ![](https://github.com/invalidmarkup369/github-    stats/blob/master/generated/languages.svg)
+
+</div>
 
 
 ## 🧰 Languages and Technologies:
