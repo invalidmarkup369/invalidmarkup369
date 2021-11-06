@@ -35,13 +35,14 @@
   
 ## 💥 Github stats:
  
-<p align="center">
+ <hr>
 
-|📈|🛠|🔥|
-|-|-|-|
-|![invalidmarkup369 github stats](https://github.com/invalidmarkup369/github-stats/blob/master/generated/overview.svg)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invalidmarkup369&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/invalidmarkup369)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=invalidmarkup369&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invalidmarkup369&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/invalidmarkup369)
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=invalidmarkup369&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<hr>
+
  
 
 <br />
