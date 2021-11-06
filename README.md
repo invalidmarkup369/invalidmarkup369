@@ -30,9 +30,10 @@
 
 <br/>
  
-  ![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/overview.svg) ![](https://github.com/invalidmarkup369/github-    stats/blob/master/generated/languages.svg)
+  ![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/overview.svg) 
+  ![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/languages.svg)
 
-
+  <img src="https://github.com/invalidmarkup369/github-stats/blob/master/generated/languages.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
 
 
 ## 🧰 Languages and Technologies:
