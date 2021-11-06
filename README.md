@@ -3,11 +3,18 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=invalidmarkup369.invalidmarkup369) [![Github](https://img.shields.io/github/followers/invalidmarkup369?label=Follow&style=social)](https://github.com/invalidmarkup369)
 
+<hr>
+<p>
+ <b>
+  🎓 I'm an BSc Computer Science and Communications Engineering student at the University of St.Kliment Ohridski - Bitola
+ </b>
+  </p>
+<hr>
 
-## 🎓 I'm an BSc Computer Science and Communications Engineering student at the University of St.Kliment Ohridski - Bitola
+<br />
 
 
-## About me
+## 🙋‍♂️ About me
 
 
 - 🚀 Future Full Stack developer
@@ -16,25 +23,32 @@
 - 🔥 Advice: stay hydrated.🙏
 - ⚡ Fun fact: i'm always focusing 🎯
 
+<br />
 
-## :email: Contact :
+## 📧 Contact :
 
 <p align="center">
 <a href="mailto:ndumovski14@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>   
 </p>
-
+  
+ <br /> 
+  
 ## 💥 Github stats:
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=invalidmarkup369&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<br/>
  
-  ![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/overview.svg) ![](https://github.com/invalidmarkup369/github-stats/blob/master/generated/languages.svg)
+<p align="center">
 
+|📈|🛠|🔥|
+|-|-|-|
+|![invalidmarkup369 github stats](https://github.com/invalidmarkup369/github-stats/blob/master/generated/overview.svg)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invalidmarkup369&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/invalidmarkup369)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=invalidmarkup369&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</p>
+ 
+
+<br />
 
 
 ## 🧰 Languages and Technologies:
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
@@ -52,6 +66,17 @@
 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"       height="40" style="vertical-align:top; margin:4px">
 </p>
+
+<br />
+
+
+## 😆 Random quote to enlighten your mood
+
+
+ ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gruvbox&animation=grow_out_in&layout=zues&font=Redressed)
+ 
+
+
 
 
 
