@@ -71,10 +71,7 @@
 <br />
 
 
-## 😆 Random quote to enlighten your mood
 
-
- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gruvbox&animation=grow_out_in&layout=zues&font=Redressed)
  
 
 
