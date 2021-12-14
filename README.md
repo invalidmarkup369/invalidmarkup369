@@ -17,7 +17,7 @@
 ## 🙋‍♂️ About me
 
 
-- 🚀 Future Full Stack developer
+- 🚀 Future Full Stack Developer
 - 💬 Ask me about anything
 - 😄 Pronouns: he/him
 - 🔥 Advice: stay hydrated.🙏
