@@ -3,15 +3,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=invalidmarkup369.invalidmarkup369) [![Github](https://img.shields.io/github/followers/invalidmarkup369?label=Follow&style=social)](https://github.com/invalidmarkup369)
 
-<hr>
-<p>
- <b>
-  🎓 I'm an BSc Computer Science and Communications Engineering student at the University of St.Kliment Ohridski - Bitola
- </b>
-  </p>
-<hr>
 
-<br />
+
 
 
 ## 🙋‍♂️ About me
