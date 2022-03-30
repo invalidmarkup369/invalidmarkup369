@@ -1,7 +1,7 @@
 # Hello, World! 👨‍💻🌐
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=invalidmarkup369.invalidmarkup369) [![Github](https://img.shields.io/github/followers/invalidmarkup369?label=Follow&style=social)](https://github.com/invalidmarkup369)[![wakatime](https://wakatime.com/badge/user/c39b5ada-1b1e-4b60-86b8-758fd0623aa4.svg)](https://wakatime.com/@c39b5ada-1b1e-4b60-86b8-758fd0623aa4)
+[![Github](https://img.shields.io/github/followers/invalidmarkup369?label=Follow&style=social)](https://github.com/invalidmarkup369)[![wakatime](https://wakatime.com/badge/user/c39b5ada-1b1e-4b60-86b8-758fd0623aa4.svg)](https://wakatime.com/@c39b5ada-1b1e-4b60-86b8-758fd0623aa4)
 
 
 
