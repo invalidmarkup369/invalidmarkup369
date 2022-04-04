@@ -1,7 +1,9 @@
 # Hello, World! 👨‍💻🌐
 
 
-[![Github](https://img.shields.io/github/followers/invalidmarkup369?label=Follow&style=social)](https://github.com/invalidmarkup369)[![wakatime](https://wakatime.com/badge/user/c39b5ada-1b1e-4b60-86b8-758fd0623aa4.svg)](https://wakatime.com/@c39b5ada-1b1e-4b60-86b8-758fd0623aa4)
+[![Github](https://img.shields.io/github/followers/invalidmarkup369?label=Follow&style=social)](https://github.com/invalidmarkup369)
+[![wakatime](https://wakatime.com/badge/user/c39b5ada-1b1e-4b60-86b8-758fd0623aa4.svg)](https://wakatime.com/@c39b5ada-1b1e-4b60-86b8-758fd0623aa4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naum-dumovski-200799236/)
 
 
 
