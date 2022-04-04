@@ -34,7 +34,7 @@
 
 <hr>
 
-- [![Roza Kanina]](https://alternativna-medicina.com.mk)
+- [![Roza Kanina](https://alternativna-medicina.com.mk)]
 
 
 
