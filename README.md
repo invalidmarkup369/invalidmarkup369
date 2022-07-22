@@ -12,7 +12,7 @@
 ## 🙋‍♂️ About me
 
 
-- 🚀 Full Stack Developer
+- 🚀 Full Stack Web Developer (freelance)
 - 🔥 Advice: stay hydrated.🙏
 
 <br />
