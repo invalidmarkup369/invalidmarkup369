@@ -12,7 +12,7 @@
 ## 🙋‍♂️ About me
 
 
-- 🚀 Future Full Stack Developer
+- 🚀 Full Stack Developer
 - 🔥 Advice: stay hydrated.🙏
 
 <br />
